@@ -1,0 +1,5 @@
+AttributeError: 'module' object has no attribute 'lru_cache'
+see: https://jingyan.baidu.com/article/fcb5aff74eb708edaa4a7119.html
+
+AttributeError: DjangoTranslation instance has no attribute 'plural'
+see: http://blog.csdn.net/u011521019/article/details/72456522
